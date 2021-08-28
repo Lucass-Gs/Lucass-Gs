@@ -33,7 +33,7 @@
  
   </div>
   
-  ![Snake animation](https://github.com/Lucass-Gs/Lucass-Gs/blob/main/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Lucass-Gs/Lucass-Gs/blob/output/github-contribution-grid-snake.svg)
  
   
   
