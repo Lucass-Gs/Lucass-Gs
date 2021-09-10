@@ -1,17 +1,24 @@
-### Olá, eu sou Lucas. 👋
-#
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
+
+
+
+### Olá, eu sou Lucas. 👋 </br></br>
+
+
 - 🔭 Hoje estou procurando emprego
 - 🌱 Estudando FullStack Java & Angular
 - 😄 Pronomes: Ele/Dele
-- 💬 Pergunte-me
+- 💬 Pergunte-me </br></br>
+
 
 
 </br>
 <div>
   <a href="https://github.com/Lucass-Gs">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucass-Gs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"> </br></br>                  
-   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Gs&layout=compact&langs_count=7&theme=midnight-purple"></br></br>
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasS_Gabriel&theme=midnight-purple&">
+  <img height=150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucass-Gs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Gs&layout=compact&langs_count=7&theme=midnight-purple"/></br></br>
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasS_Gabriel&theme=midnight-purple&)"/>
     </div></br>   
 
   <div style="display: inline_block">
