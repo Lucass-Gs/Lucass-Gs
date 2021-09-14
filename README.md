@@ -7,7 +7,7 @@
 
 
 - 🔭 Hoje estou procurando emprego
-- 🌱 Estudando FullStack Java & Angular
+- 🌱 Estudando .Net
 - 😄 Pronomes: Ele/Dele
 - 💬 Pergunte-me </br></br>
 
