@@ -7,7 +7,7 @@
 
 
 - 🔭 Hoje estou procurando emprego
-- 🌱 Estudando .Net
+- 🌱 Graduado em Cîencia da Computação e estudando .Net e React
 - 😄 Pronomes: Ele/Dele
 - 💬 Pergunte-me </br></br>
 
