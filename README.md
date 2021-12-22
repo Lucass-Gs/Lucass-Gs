@@ -17,7 +17,7 @@
 <div>
   <a href="https://github.com/Lucass-Gs">
   <img height=150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucass-Gs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="300em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Gs&layout=compact&langs_count=7&theme=midnight-purple"/></br></br>
+   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Gs&layout=compact&langs_count=7&theme=midnight-purple"/></br></br>
     <img height="300em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasS_Gabriel&theme=midnight-purple&)"/>
     </div></br>   
 
