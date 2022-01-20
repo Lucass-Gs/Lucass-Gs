@@ -6,7 +6,7 @@
    ### Olá, eu sou Lucas. 👋 </br></br>
 
 
-- 🔭 Hoje estou procurando emprego
+- 🔭 Procuro vaga para Dev Junior React
 - 🌱 Graduado em Cîencia da Computação e Desenvolvedor React
 - 😄 Pronomes: Ele/Dele
 - 💬 Pergunte-me </br></br>
