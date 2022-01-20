@@ -1,30 +1,30 @@
-<img align="center" src="https://user-images.githubusercontent.com/84105649/150236515-5a368321-bace-4edf-9996-e693f5e1c8e6.gif">
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/84105649/150236515-5a368321-bace-4edf-9996-e693f5e1c8e6.gif">
+</p> </br>
 
 
-
-
-### Olá, eu sou Lucas. 👋 </br></br>
+   ### Olá, eu sou Lucas. 👋 </br></br>
 
 
 - 🔭 Hoje estou procurando emprego
-- 🌱 Graduado em Cîencia da Computação e estudando .Net e React
+- 🌱 Graduado em Cîencia da Computação e Desenvolvedor React
 - 😄 Pronomes: Ele/Dele
 - 💬 Pergunte-me </br></br>
 
 
 
 </br>
-<div>
+<div align="center">
   <a href="https://github.com/Lucass-Gs">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucass-Gs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>    
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-Gs&layout=compact&langs_count=7&theme=midnight-purple"/></br></br>
    </div>
    
-   <div>
-    <img height="300em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasS_Gabriel&theme=midnight-purple&)"/>
-    </div></br>   
+   <div align="center">
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasS_Gabriel&theme=midnight-purple&)"/>
+    </div></br> </br>  
 
-  <div style="display: inline_block">
+  <div style="display: inline_block" align="center">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
