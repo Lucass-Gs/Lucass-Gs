@@ -21,7 +21,7 @@
    </div>
    
    <div align="center">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasS_Gabriel&theme=midnight-purple&)"/>
+    <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasS_Gabriel&theme=midnight-purple&)"/>
     </div></br> </br>  
 
   <div style="display: inline_block" align="center">
