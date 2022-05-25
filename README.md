@@ -6,8 +6,8 @@
    ### Olá, eu sou Lucas. 👋 </br></br>
 
 
-- 🔭 Procuro vaga para Dev Junior React
-- 🌱 Ultimo ano de Cîencia da Computação e Desenvolvedor React
+- 🔭 Procuro vaga para Dev Front-End Junior
+- 🌱 Graduado em Cîencia da Computação
 - 😄 Pronomes: Ele/Dele
 - 💬 Pergunte-me </br></br>
 
