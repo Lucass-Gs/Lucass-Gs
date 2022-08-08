@@ -6,7 +6,7 @@
    ### Olá, eu sou Lucas. 👋 </br></br>
 
 
-- 🔭 Procuro vaga para Dev Front-End Junior
+- 🔭 Dev FullStack Junior
 - 🌱 Graduado em Cîencia da Computação
 - 😄 Pronomes: Ele/Dele
 - 💬 Pergunte-me </br></br>
