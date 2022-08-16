@@ -8,7 +8,6 @@
 
 - 🔭 Dev FullStack Junior
 - 🌱 Graduado em Cîencia da Computação
-- 😄 Pronomes: Ele/Dele
 - 💬 Pergunte-me </br></br>
 
 
