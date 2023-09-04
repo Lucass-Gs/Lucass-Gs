@@ -6,7 +6,7 @@
    ### Olá, eu sou Lucas. 👋 </br></br>
 
 
-- 🔭 Dev FullStack Junior
+- 🔭 Dev FullStack
 - 🌱 Graduado em Cîencia da Computação
 - 💬 Pergunte-me </br></br>
 
