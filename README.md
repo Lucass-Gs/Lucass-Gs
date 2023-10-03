@@ -3,12 +3,12 @@
 </p> </br>
 
 
-   ### Olá, eu sou Lucas. 👋 </br></br>
+   ### Olá, eu sou Lucas. || Hello, I'm Lucas 👋 </br></br>
 
 
 - 🔭 Dev FullStack
-- 🌱 Graduado em Cîencia da Computação
-- 💬 Pergunte-me </br></br>
+- 🌱 Graduado em Cîencia da Computação || Bachelor of Computer Science
+- 💬 Pergunte-me || Ask me </br></br>
 
 
 
